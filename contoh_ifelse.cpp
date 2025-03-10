@@ -26,7 +26,7 @@ string ukuransegitiga(double l ){
 }
 
 void procedurOutput2(){
-    cout << "luas segitiga = " << ukuransegitiga(hitungluas2 alas, tinggi )  << endl;
+    cout << "luas segitiga = " << ukuransegitiga(hitungluas2 (alas, tinggi ))  << endl;
 }
 
 int main(){
